@@ -25,7 +25,7 @@
       <file leaf-file-name="fix_data.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/fix_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="9" selection-start="808" selection-end="808" vertical-scroll-proportion="0.0">
+            <state line="26" column="13" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -54,7 +54,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainsite/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="-3.125">
+            <state line="4" column="24" selection-start="74" selection-end="74" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -63,7 +63,7 @@
       <file leaf-file-name="base.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainsite/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="67" selection-start="1959" selection-end="1959" vertical-scroll-proportion="0.6232804">
+            <state line="15" column="40" selection-start="504" selection-end="504" vertical-scroll-proportion="0.23809524">
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
       <file leaf-file-name="mainsite.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainsite/static/js/mainsite.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
+            <state line="5" column="17" selection-start="74" selection-end="77" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -278,6 +278,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="mainsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oakland" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oakland" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="alameda" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -358,6 +384,13 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -466,15 +499,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/utils/fix_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="9" selection-start="808" selection-end="808" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mainsite/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
@@ -500,21 +524,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mainsite/static/js/mainsite.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
+        <state line="5" column="17" selection-start="74" selection-end="77" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/fix_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="13" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mainsite/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="-3.125">
+        <state line="4" column="24" selection-start="74" selection-end="74" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mainsite/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="67" selection-start="1959" selection-end="1959" vertical-scroll-proportion="0.6232804">
+        <state line="15" column="40" selection-start="504" selection-end="504" vertical-scroll-proportion="0.23809524">
           <folding />
         </state>
       </provider>

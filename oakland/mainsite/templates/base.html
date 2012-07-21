@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="{{ STATIC_URL }}bootstrap/js/jquery.js"></script>
     <meta charset="utf-8">
     <title>Restaurant Checker</title>
     <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
@@ -11,6 +12,10 @@
     <!-- Le styles -->
     <link href="{{ STATIC_URL }}bootstrap/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
+
+        .map { width:600px; height:400px;}
+        .map img { max-width:none; }
+
         body {
             padding-top: 60px;
             padding-bottom: 40px;
@@ -48,6 +53,7 @@
 
 <body>
 
+
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
@@ -75,10 +81,12 @@
         <h1>Map Explorer</h1>
         <p>Explore your restaurant below!</p>
         <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+
     </div>
 
     {% block map_block %}
     {% endblock %}
+
 
     <!-- Example row of columns -->
     <div class="row">
@@ -110,7 +118,7 @@
 <!-- Le javascript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="{{ STATIC_URL }}bootstrap/js/jquery.js"></script>
+
 <script src="{{ STATIC_URL }}bootstrap/js/bootstrap-transition.js"></script>
 <script src="{{ STATIC_URL }}bootstrap/js/bootstrap-alert.js"></script>
 <script src="{{ STATIC_URL }}bootstrap/js/bootstrap-modal.js"></script>

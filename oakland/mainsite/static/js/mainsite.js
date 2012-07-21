@@ -18,3 +18,6 @@ function init() {
 
 }
 
+$(function() {
+    init();
+});
