@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Restaurant Checker</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -29,6 +29,21 @@
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ STATIC_URL }}bootstrap/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ STATIC_URL }}bootstrap/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="{{ STATIC_URL }}bootstrap/ico/apple-touch-icon-57-precomposed.png">
+
+
+    <!-- Openlayers stuff -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <link rel="stylesheet" href="{{STATIC_URL}}openlayers/theme/default/style.css" type="text/css">
+    <link rel="stylesheet" href="{{STATIC_URL}}openlayers/theme/default/google.css" type="text/css">
+    <!--<link rel="stylesheet" href="style.css" type="text/css">-->
+    <script src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script>
+    <script src="{{STATIC_URL}}openlayers/OpenLayers.js"></script>
+    <script src="{{STATIC_URL}}js/mainsite.js"></script>
+
 </head>
 
 <body>
@@ -61,6 +76,9 @@
         <p>Explore your restaurant below!</p>
         <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
     </div>
+
+    {% block map_block %}
+    {% endblock %}
 
     <!-- Example row of columns -->
     <div class="row">
