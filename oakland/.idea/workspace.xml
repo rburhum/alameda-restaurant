@@ -54,25 +54,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainsite/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="24" selection-start="74" selection-end="74" vertical-scroll-proportion="-2.5">
+            <state line="8" column="19" selection-start="144" selection-end="144" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainsite/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="544" selection-end="544" vertical-scroll-proportion="-0.20634921">
+            <state line="51" column="7" selection-start="2325" selection-end="2325" vertical-scroll-proportion="-8.7">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mainsite.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="mainsite.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainsite/static/js/mainsite.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="32" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+            <state line="79" column="6" selection-start="2129" selection-end="2129" vertical-scroll-proportion="0.6845238">
               <folding />
             </state>
           </provider>
@@ -104,8 +104,8 @@
         <option value="$PROJECT_DIR$/mainsite/views.py" />
         <option value="$PROJECT_DIR$/alameda/urls.py" />
         <option value="$PROJECT_DIR$/alameda/settings.py" />
-        <option value="$PROJECT_DIR$/mainsite/templates/index.html" />
         <option value="$PROJECT_DIR$/mainsite/templates/base.html" />
+        <option value="$PROJECT_DIR$/mainsite/templates/index.html" />
         <option value="$PROJECT_DIR$/mainsite/static/js/mainsite.js" />
       </list>
     </option>
@@ -531,23 +531,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainsite/static/js/mainsite.js">
+    <entry file="file://$PROJECT_DIR$/mainsite/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="32" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+        <state line="51" column="7" selection-start="2325" selection-end="2325" vertical-scroll-proportion="-8.7">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mainsite/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="74" selection-end="74" vertical-scroll-proportion="-2.5">
+        <state line="8" column="19" selection-start="144" selection-end="144" vertical-scroll-proportion="-5.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainsite/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/mainsite/static/js/mainsite.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="544" selection-end="544" vertical-scroll-proportion="-0.20634921">
+        <state line="79" column="6" selection-start="2129" selection-end="2129" vertical-scroll-proportion="0.6845238">
           <folding />
         </state>
       </provider>
