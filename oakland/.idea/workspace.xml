@@ -25,7 +25,18 @@
       <file leaf-file-name="fix_data.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/fix_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="13" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+            <state line="28" column="22" selection-start="0" selection-end="1152" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fix_data2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/fix_data2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="76" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -54,25 +65,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainsite/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="19" selection-start="144" selection-end="144" vertical-scroll-proportion="-5.0">
+            <state line="8" column="35" selection-start="160" selection-end="160" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="base.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainsite/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="7" selection-start="2325" selection-end="2325" vertical-scroll-proportion="-8.7">
+            <state line="80" column="20" selection-start="3248" selection-end="3248" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mainsite.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mainsite.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainsite/static/js/mainsite.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="6" selection-start="2129" selection-end="2129" vertical-scroll-proportion="0.6845238">
+            <state line="79" column="6" selection-start="2129" selection-end="2129" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,15 +115,16 @@
         <option value="$PROJECT_DIR$/mainsite/views.py" />
         <option value="$PROJECT_DIR$/alameda/urls.py" />
         <option value="$PROJECT_DIR$/alameda/settings.py" />
-        <option value="$PROJECT_DIR$/mainsite/templates/base.html" />
-        <option value="$PROJECT_DIR$/mainsite/templates/index.html" />
         <option value="$PROJECT_DIR$/mainsite/static/js/mainsite.js" />
+        <option value="$PROJECT_DIR$/utils/fix_data2.py" />
+        <option value="$PROJECT_DIR$/mainsite/templates/index.html" />
+        <option value="$PROJECT_DIR$/mainsite/templates/base.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="104" />
-    <option name="y" value="23" />
+    <option name="x" value="536" />
+    <option name="y" value="22" />
     <option name="width" value="1158" />
     <option name="height" value="1178" />
   </component>
@@ -422,7 +434,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="23" width="1158" height="1178" extended-state="0" />
+    <frame x="536" y="22" width="1158" height="1178" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -522,32 +534,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mainsite/static/js/mainsite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="6" selection-start="2129" selection-end="2129" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utils/fix_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+        <state line="28" column="22" selection-start="0" selection-end="1152" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainsite/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/utils/fix_data2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="7" selection-start="2325" selection-end="2325" vertical-scroll-proportion="-8.7">
-          <folding />
+        <state line="14" column="76" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mainsite/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="144" selection-end="144" vertical-scroll-proportion="-5.0">
+        <state line="8" column="35" selection-start="160" selection-end="160" vertical-scroll-proportion="-5.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainsite/static/js/mainsite.js">
+    <entry file="file://$PROJECT_DIR$/mainsite/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="6" selection-start="2129" selection-end="2129" vertical-scroll-proportion="0.6845238">
+        <state line="80" column="20" selection-start="3248" selection-end="3248" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
